@@ -10,8 +10,8 @@ pip install -r requirements.txt
 
 ## Setup Environment - Shell/Terminal
 ```
-mkdir proyek_analisis_data
-cd proyek_analisis_data
+mkdir Proyek_Analisis_Data:_BIKE_SHARING_DATASET
+cd  Proyek_Analisis_Data:_BIKE_SHARING_DATASET
 pipenv install
 pipenv shell
 pip install -r requirements.txt
